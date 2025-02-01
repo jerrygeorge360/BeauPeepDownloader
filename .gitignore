@@ -1,0 +1,4 @@
+.venv
+BeauPeepDownloader.egg-info
+__pycache__
+.idea
